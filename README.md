@@ -28,7 +28,7 @@ I’m a data professional with a background in business management and data anal
 - **Description:** Created an interactive dashboard to track the performance of digital marketing campaigns and optimize ad spend.
 - **Tech Stack:** SQL, Power BI, Python (Pandas, Matplotlib)
 - **Key Skills:** Dashboard development, KPI tracking, business insights
-- **[View Project](#)**
+- **[View Project](https://public.tableau.com/app/profile/dinda.sularyono/viz/MarketingAnalysisOverview/MarketingDashboard)**
 
 ---
 
@@ -82,9 +82,9 @@ Each project folder contains:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- **Portfolio Website:** [Your Website](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dinda-sularyono/)
+- **GitHub:** [Your GitHub Profile](https://github.com/DindaSularyono/)
+- **Portfolio Website:** [Your Website](https://dindasularyono.wixsite.com/portodinda)
 
 ---
 
