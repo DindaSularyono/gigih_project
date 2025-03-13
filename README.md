@@ -82,9 +82,9 @@ Each project folder contains:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- **Portfolio Website:** [Your Website](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dinda-sularyono/)
+- **GitHub:** [Your GitHub Profile](https://github.com/DindaSularyono/)
+- **Portfolio Website:** [Your Website](https://dindasularyono.wixsite.com/portodinda)
 
 ---
 
